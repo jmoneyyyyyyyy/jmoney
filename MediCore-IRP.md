@@ -1,8 +1,13 @@
 # MediCore Health Systems – Incident Response Plan
 
 **Version:** 1.0
-**Date:** June 2026
+**Date:** August 2026
 **Owner:** Jasmine Singh, Lead Cloud Security Architect
+**University of Sunderland  DTS202: Data Governance and Compliance**
+**Student Name:** Jasmine Singh 
+**Student ID:** BI85Ya 
+**Pathway:** Digital Technology Solutions (Apprenticeship)  
+**Module Leader:** Mays Abukeshek 
 
 ---
 
