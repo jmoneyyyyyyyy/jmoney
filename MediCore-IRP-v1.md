@@ -123,23 +123,4 @@ The incident is reviewed and improvements are implemented.
 
 ---
 
-# Screenshot Evidence
-
-## Screenshot 23 – IRP Document
-
-Show:
-
-* This document open in GitHub
-* Your name visible
-* Current date visible
-
-## Screenshot 24 – ICO Notification Chain
-
-Show:
-
-* T+0 to T+72 hour breach notification timeline
-* Named roles (Incident Lead, CTO, DPO, ICO)
-
----
-
 **Document End**
