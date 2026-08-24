@@ -8,8 +8,28 @@
 
 # 1. Purpose
 
-This Incident Response Plan (IRP) defines the process for identifying, responding to, containing, eradicating and recovering from cybersecurity incidents that may affect MediCore Health Systems, its services and patient data.
+This Incident Response Plan (IRP) defines the process for identifying, responding to, containing, eradicating and recovering from cybersecurity incidents that may affect MediCore Health Systems, its services and patient data. It directly supports my three subnet AWS architecture which is built around CloudWatch alerts, S3 backups and RDS Point-in-Time Recovery. This report meets UK GDPR Art.32(1)(d) as it tests and evaluates the effectiveness of the security measures I deployed.
 
+# Scope
+
+---
+AWS components by name: 
+
+Bastion (t3.micro) 
+
+MediCore-Web-ASG 
+
+MediCore-WebServer-LT 
+
+MediCore-ClinicalDB (RDS PostgreSQL) 
+
+medicore-backups-ls202 (S3) 
+
+MediCore-AuditTrail (CloudTrail) 
+
+CloudWatch alarms (5 total) 
+
+Applies to MediCore’s 85 staff and all patient data stored in eu-west-2 
 ---
 
 # 2. Roles and Responsibilities
