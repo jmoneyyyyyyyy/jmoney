@@ -2,7 +2,7 @@
 
 **Version:** 1.0
 **Date:** June 2026
-**Owner:** Lead Cloud Security Architect
+**Owner:** Jasmine Singh, Lead Cloud Security Architect
 
 ---
 
